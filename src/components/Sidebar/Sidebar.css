@@ -1,0 +1,26 @@
+.sidebar {
+    background-color:  rgba(13, 48, 72, .9);
+    width: 250px;
+    height: 100vh;
+    padding: 20px;
+    color: white;
+}
+
+.sidebar .logo {
+    margin-bottom: 30px;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 20px 0;
+}
+
+.sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}

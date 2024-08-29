@@ -1,0 +1,6 @@
+.main-content {
+    margin-left: 250px; /* Espacio para la sidebar */
+    padding: 20px;
+    padding-top: 80px; /* Espacio para evitar superposición con el header */
+    min-height: 100vh;
+}
